@@ -1,5 +1,5 @@
 <?php 
-	$title = 'Fitness Tracker Login Page';
+	$title = 'Betteru Login Page';
 	require_once('logging_header.php');
 	require_once('util.php');
 
