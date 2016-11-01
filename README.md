@@ -1,4 +1,4 @@
 betteru
 =======
 
-Fitness website to track Daily Intake of macros, weight, and workouts
+Fitness website to track daily intake of macros, weight, and workouts.
